@@ -6,6 +6,7 @@ public class HelloWorld {
 		System.out.println("Hello Maven");
 
 		//Git修改測試
+		System.out.println("Hello Git");
 
 	}
 
