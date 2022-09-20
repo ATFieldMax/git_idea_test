@@ -7,6 +7,8 @@ public class HelloWorld {
 
 		//Git修改測試
 		System.out.println("Hello Github");
+		System.out.println("----------");
+		System.out.println("Hello Git");
 
 	}
 
